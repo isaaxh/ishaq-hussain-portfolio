@@ -1,12 +1,12 @@
 import React from "react";
 import Layout from "../components/Layout";
 
-const Page404 = () => {
+const Projects = () => {
   return (
     <Layout>
-      <div className='page-404'>404</div>
+      <div className='projects-section'>Projects</div>
     </Layout>
   );
 };
 
-export default Page404;
+export default Projects;
